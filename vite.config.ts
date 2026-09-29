@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
-    base: './',
+    base: '/EDU-Criador_quiz_Verdadeiro_ou_Falso/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
