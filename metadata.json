@@ -1,0 +1,6 @@
+{
+  "name": "Criador de Jogos Verdadeiro ou Falso",
+  "description": "Crie e jogue quizzes interativos de Verdadeiro ou Falso com perguntas personalizadas, mensagens de acerto e feedbacks de erro explicativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
